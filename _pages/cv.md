@@ -11,7 +11,7 @@ author_profile: true
 
 ### Depuis mars 2018
 
-* Paysagiste à l'entraide cantonale de Montlouis sur Loire
+* Paysagiste à l'[entraide cantonale de Montlouis sur Loire](http://ecmmontlouis.fr/)
 
 
 ### 2015 à 2017
@@ -27,4 +27,5 @@ author_profile: true
 ### 2010 à 2013
 
 * BEP + Bac pro horticulture: spécialités florales et légumières
+[CFAAD de Blois](http://www.cfaad41.com/formation-enseignement-agricole/formation-agricole-enseignement-loir-et-cher.php) (41)
 
