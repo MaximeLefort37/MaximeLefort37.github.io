@@ -2,7 +2,7 @@
 layout: single
 classes: wide
 permalink: /contact/
-title: "Contact et services"
+title: "Contact"
 author_profile: true
 header:
   image: "/images/fond.jpeg"
