@@ -7,7 +7,7 @@ header:
 author_profile: true
 ---
 
-## Paysagiste professionnel dans l'Indre et Loire
+## Paysagiste professionnel
 
 ### Depuis mars 2018
 
