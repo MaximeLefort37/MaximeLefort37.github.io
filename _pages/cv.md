@@ -7,6 +7,8 @@ header:
 author_profile: true
 ---
 
+## Paysagiste professionnel dans l'Indre et Loire
+
 ### Depuis mars 2018
 
 * Paysagiste à l'entraide cantonale de Montlouis sur Loire
@@ -25,3 +27,4 @@ author_profile: true
 ### 2010 à 2013
 
 * BEP + Bac pro horticulture: spécialités florales et légumières
+
