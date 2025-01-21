@@ -17,6 +17,4 @@ header:
 
 **Email:** maxime.lefort37@outlook.fr
 
-**Disponibilités:** 7 jours sur 7 à votre service !
-
 N'hésitez pas à me contacter pour établir un devis gratuit.
